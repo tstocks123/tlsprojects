@@ -1,2 +1,1 @@
-# tlsprojects
-# sample file
+# Hi there,  I am interested in playing with the Arduino, ESP32, and Raspberry Pi boards.  Possibly implementing a security system for home and/or office. Also just playing with electronics in general.  
